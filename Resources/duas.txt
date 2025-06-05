@@ -1,0 +1,21 @@
+/* Localizable.strings (Base - English) */
+
+"app_name" = "Dua Reminder";
+"duas" = "Duas";
+"schedule_reminder" = "Schedule Reminder";
+"cancel_reminder" = "Cancel Reminder";
+"select_date_time" = "Select Date & Time";
+"close" = "Close";
+
+"settings" = "Settings";
+"app_language" = "App Language";
+"enable_reminders" = "Enable Reminders";
+"backup_reminders" = "Backup Reminders to iCloud";
+"restore_reminders" = "Restore Reminders from iCloud";
+
+"backup_complete" = "Backup Complete";
+"restore_complete" = "Restore Complete";
+
+"notifications_permission_error" = "Notifications permission was not granted. Please enable it in Settings.";
+"error" = "Error";
+
