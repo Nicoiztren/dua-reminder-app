@@ -1,0 +1,2 @@
+# Prayer Times calculation (optional, for auto-calculating prayer times)
+https://github.com/mvdan/swift-prayer-times.git
